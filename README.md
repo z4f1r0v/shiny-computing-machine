@@ -1,4 +1,4 @@
-# Shiny Computing Machine
+# Shiny Computing Machine <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fweb-service-and-development%2F512%2Fcomputer_coding_php_code_programing_program_desktop_system_monitor_display_retro_old_obsolete_technology_development_oldschool_monoblock_algorithm_css_html_flat_design_icon-512.png" width="64" height="64" />
 You like Scala and you want to do some exploratory data analysis (EDA)? 
 You want to find the quickest way to get you on par with your python, pandas and matplotlib fellows?
 
