@@ -8,7 +8,7 @@ So what does one need to do fast iterative data exploration?
 In my mind the necessary steps are:
 - data processing - enables ingesiton of data from any source and allows for conversion into a format that can be passed to an SQL engine
 - SQL engine - enables issuing queries about your data given that it already is in the right format
-- visualization - gives visual representaitons that aid the understanding of the numerical results
+- visualization - gives visual representations that aid the understanding of the numerical results
 - documentation - gives the ability to supplement the provided analysis with explanations in natural language
 
 ## What's inside?
