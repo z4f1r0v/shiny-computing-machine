@@ -13,6 +13,7 @@ You want to find the quickest way to get you on par with your python, pandas and
 
 Look no futher, my dear - the shiny computing machine is here!
 
+## Description
 So what does one need to do fast iterative data exploration?
 In my mind the necessary steps are:
 - data processing - enables ingestion of data from any source and allows for conversion into a format that can be passed to an SQL engine
